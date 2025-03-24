@@ -1,4 +1,10 @@
 # My learning of GitHub
+
+- [x] Added heading
+- [x] Added photo
+- [x] Added code
+- [ ] 
+
 ```
 print("Hello GitHub")
 ```
